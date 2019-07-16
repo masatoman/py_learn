@@ -1,0 +1,3 @@
+[sugiya] total: 231, evaluation: Good
+[suzuki] total: 269, evaluation: Excellent!
+[shimizukawa] total: 256, evaluation: Excellent!

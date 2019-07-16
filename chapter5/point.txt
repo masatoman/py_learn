@@ -1,0 +1,3 @@
+suzuki:100,88,81
+shimizukawa:77,94,85
+sugiya:80,52,99
